@@ -17,25 +17,15 @@
 ### 🔹 GIF Preview
 
 <p align="center">
-  <img src="output/demo.gif" width="700">
+  <img src="[output/demo.gif](https://github.com/shersingh-23/scrfd-face-detection/blob/main/outputs/demo.gif)" width="700">
 </p>
-
----
-
-### 🔹 Full Video
-
-👉 Upload your video (`output_video.mp4`) to GitHub and paste link here:
-
-```
-https://github.com/shersingh-23/scrfd-face-detection/assets/your-video-link.mp4
-```
 
 ---
 
 ### 🔹 Image Output
 
 <p align="center">
-  <img src="output/output_result.jpg" width="700">
+  <img src="[output/output_result.jpg](https://github.com/shersingh-23/scrfd-face-detection/blob/main/outputs/output_result.jpg)" width="700">
 </p>
 
 ---
