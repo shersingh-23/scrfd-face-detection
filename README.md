@@ -1,4 +1,4 @@
-# 🚀 SCRFD Face Detection (Image & Video)
+# SCRFD Face Detection (Image & Video)
 
 <p align="center">
   <b>Fast & Accurate Face Detection using SCRFD (ONNX + OpenCV)</b>
@@ -12,39 +12,39 @@
 
 ---
 
-## 🎥 Demo
+## Demo
 
-### 🔹 GIF Preview
+### GIF Preview
 
 <p align="center">
-  <img src="[output/demo.gif](https://github.com/shersingh-23/scrfd-face-detection/blob/main/outputs/demo.gif)" width="700">
+  <img src="https://github.com/shersingh-23/scrfd-face-detection/blob/main/outputs/demo.gif" width="700">
 </p>
 
 ---
 
-### 🔹 Image Output
+### Image Output
 
 <p align="center">
-  <img src="[output/output_result.jpg](https://github.com/shersingh-23/scrfd-face-detection/blob/main/outputs/output_result.jpg)" width="700">
+  <img src="https://github.com/shersingh-23/scrfd-face-detection/blob/main/outputs/output_result.jpg" width="700">
 </p>
 
 ---
 
-## ✨ Features
+## Features
 
-* ⚡ Real-time Face Detection
-* 🧠 SCRFD ONNX model (InsightFace)
-* 🎯 High accuracy with multi-scale anchors
-* 🎨 Confidence-based bounding box colors
-* 👁️ Facial keypoints detection
-* 🎥 Works on both Image & Video
-* 🔧 Custom Non-Max Suppression (NMS)
-* 📦 Adaptive padding for better face coverage
-* 💻 CPU & GPU support (ONNX Runtime)
+*  Real-time Face Detection
+*  SCRFD ONNX model (InsightFace)
+*  High accuracy with multi-scale anchors
+*  Confidence-based bounding box colors
+*  Facial keypoints detection
+*  Works on both Image & Video
+*  Custom Non-Max Suppression (NMS)
+*  Adaptive padding for better face coverage
+*  CPU & GPU support (ONNX Runtime)
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```
 .
@@ -63,7 +63,7 @@
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/shersingh-23/scrfd-face-detection.git
@@ -74,13 +74,13 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼️ Run on Image
+##  Run on Image
 
 ```bash
 python test_image.py
 ```
 
-📌 Output:
+ Output:
 
 ```
 output/output_result.jpg
@@ -88,13 +88,13 @@ output/output_result.jpg
 
 ---
 
-## 🎥 Run on Video
+##  Run on Video
 
 ```bash
 python test_video.py
 ```
 
-📌 Output:
+ Output:
 
 ```
 output/output_video.mp4
@@ -102,7 +102,7 @@ output/output_video.mp4
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 * Model: `det_10g.onnx`
 * Framework: SCRFD (InsightFace)
@@ -112,7 +112,7 @@ output/output_video.mp4
 
 ---
 
-## 🎨 Confidence Visualization
+##  Confidence Visualization
 
 | Confidence | Color     |
 | ---------- | --------- |
@@ -122,7 +122,7 @@ output/output_video.mp4
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 1. Preprocess image/frame
 2. Run ONNX model inference
@@ -133,7 +133,7 @@ output/output_video.mp4
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * OpenCV
@@ -142,22 +142,22 @@ output/output_video.mp4
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
-* 🔁 Face tracking (SORT / DeepSORT)
-* 🧍 Face recognition
-* 🌐 Web app (Streamlit / Flask)
-* ⚡ TensorRT optimization
+*  Face tracking (SORT / DeepSORT)
+*  Face recognition
+*  Web app (Streamlit / Flask)
+*  TensorRT optimization
 
 ---
 
-## 🙌 Acknowledgment
+##  Acknowledgment
 
 SCRFD model from InsightFace
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, give it a ⭐ on GitHub!
 
